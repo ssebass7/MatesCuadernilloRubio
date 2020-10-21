@@ -10,6 +10,9 @@ import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.TextView;
 
+/**
+ * @Sebas
+ */
 public class MainActivity extends AppCompatActivity {
     Spinner spn;
     TextView txt1;
